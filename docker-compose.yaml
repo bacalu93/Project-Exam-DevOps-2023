@@ -21,7 +21,7 @@ services:
         depends_on:
             - mydb
         ports:
-            - "5001:2001"
+            - "80:2001"
         entrypoint: 
         - sh
         - /to-do-list/entrypoint.sh
