@@ -38,20 +38,3 @@ Tech
 * [Docker-Compose]
 * [Bootstrap]
 
-Version
---------
-* 1.1.8
-
-Author
---------
-* Osarodion Irabor
-
-
-[flask]: http://flask.pocoo.org/
-[Docker]: https://docs.docker.com/engine/reference/builder/#usage
-[Docker-Compose]: https://docs.docker.com/compose/compose-file/
-[Jinja2]: http://jinja.pocoo.org/docs/2.10/
-[pytz]: https://pypi.org/project/pytz/
-[MySQL]: https://dev.mysql.com/doc/relnotes/mysql/8.0/en/news-8-0-12.html
-[mysql-connector-python]: https://dev.mysql.com/doc/connector-python/en/
-[Bootstrap]: https://getbootstrap.com/docs/4.0/getting-started/introduction/
